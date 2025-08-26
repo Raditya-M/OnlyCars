@@ -140,13 +140,13 @@
         </div>
 
         <!-- Add Gallery CTA -->
-         {{-- <div class="text-center mt-16">
-            <a href="{{ route('galleries.create') }}" 
+         <div class="text-center mt-16">
+            <a href="{{ route('galleries.index') }}" 
                class="inline-flex items-center px-8 py-4 bg-gradient-to-r from-neon-purple to-neon-pink text-white font-semibold rounded-2xl hover:shadow-2xl hover:shadow-neon-purple/25 transition-all duration-300 transform hover:scale-105">
                 <i class="fas fa-plus mr-3"></i>
                 Add New Gallery
             </a>
-        </div>  --}}
+        </div> 
     </div>
 </section>
 

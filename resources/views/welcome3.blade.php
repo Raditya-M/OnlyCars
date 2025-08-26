@@ -148,14 +148,14 @@
             @endforeach
         </div>
 
-        <!-- Add Merchandise CTA -->
-        <!-- <div class="text-center mt-16">
+         <!-- Add Merchandise CTA -->
+         {{-- <div class="text-center mt-16">
             <a href="{{ route('merchandises.create') }}" 
                class="inline-flex items-center px-8 py-4 bg-gradient-to-r from-neon-green to-emerald-500 text-white font-semibold rounded-2xl hover:shadow-2xl hover:shadow-neon-green/25 transition-all duration-300 transform hover:scale-105">
                 <i class="fas fa-plus mr-3"></i>
                 Add New Merchandise
             </a>
-        </div> -->
+        </div> --}}
     </div>
 </section>
 
